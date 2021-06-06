@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Assembly 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140330
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" />
+<link href="file:///C|/Users/user42/Desktop/assembly/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="file:///C|/Users/user42/Desktop/assembly/fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">THEKILLERMAN&nbsp;</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="#" accesskey="1" title="">ACASA&nbsp;&nbsp;</a></li>
+				<li><a href="#" accesskey="2" title="">PARTENERI&nbsp;</a></li>
+				<li><a href="#" accesskey="3" title="">DESPRE MINE&nbsp;</a></li>
+				<li><a href="#" accesskey="4" title="">DE CE NU&nbsp;</a></li>
+				<li><a href="#" accesskey="5" title="">SOCIAL&nbsp;</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="banner" class="container">
+		<div class="title">
+		  <h2>BUN VENIT RAU AI NIMERIT</h2>
+			<span class="byline">LA PROSTIA MEA DE SITE&nbsp;</span>
+		</div>
+		<ul class="actions">
+			<li id="content">
+			  <p><a href="https://www.youtube.com/channel/UCSyuReKAFM3Y6vR9n1VxqYA" class="button">CANAL YOUTUBE&nbsp;</a></p>
+			</li>
+	  </ul>
+	</div>
+</div>
+<div id="wrapper">
+	<div id="three-column" class="container">
+		<div class="title">
+			<h2>NIMIC SPECIAL PE AICEA&nbsp;&nbsp;</h2>
+			<span class="byline">NU STIU CUM AI AJUNS LA MINE PE SITE&nbsp;</span>
+		</div>
+		<div class="boxA">
+			<div>INSTAGRAM&nbsp;</div>
+		  <p>_david_9702&nbsp;</p>
+			<a href="https://www.instagram.com/_david_9702/" class="button button-alt">FOLLOW&nbsp;</a>
+		</div>
+		<div class="boxB">
+			<div>PAGINA DE FACEBOOK MAII&nbsp;</div>
+			<p>&nbsp;thekillerman.official</p>
+			<a href="https://www.facebook.com/thekillerman.official" class="button button-alt">vreau sa vad cu ochi mei&nbsp;&nbsp;</a>
+		</div>
+		<div class="boxC">
+			<p> &nbsp;FACEBOOK PERSONAL</p>
+			<a href="https://www.facebook.com/david.serban.7906/" class="button button-alt">VREAU SA ARUNC UN OCHI&nbsp;</a>
+		</div>
+	</div>
+</div>
+<div id="welcome">
+	<div class="container">
+		<div class="title">
+			<h2>AMU NOOOOO&nbsp;</h2>
+			<span class="byline">DACA CAINELE MUSCA ATUNCI MUSCA DE CE NU CAINE</span>
+		</div>
+		<p>NI AICEA AVETI LINK DE LA MELODIA MEA PREFERATA RUPE BOXELE DAI DRACU DE VECINI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </p>
+		<ul class="actions">
+			<li><a href="https://youtu.be/p3VhAqf8KW0" class="button">MELODIE&nbsp;</a></li>
+		</ul>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Untitled. All rights reserved. | Photos by NUI TREABA TA <a href="http://fotogrph.com/">&nbsp;</a> | Design by <a href="http://templated.co" rel="nofollow">THE KILLER MAN&nbsp;</a>.</p>
+</div>
+</body>
+</html>
