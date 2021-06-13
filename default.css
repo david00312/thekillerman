@@ -318,9 +318,9 @@
 
 	#logo
 	{
-		position: absolute;
-		top: 3.6em;
-		left: 0;
+    position: absolute;
+    top: 0px;
+    left: 2px;
 	}
 	
 	#logo h1
@@ -331,8 +331,10 @@
 	
 	#logo a
 	{
-		text-decoration: none;
-		color: rgba(255,255,255,1);
+    text-decoration: none;
+    color: rgba(255,0,4,1);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    width: 12(value);
 	}
 
 /*********************************************************************************/
@@ -370,6 +372,9 @@
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: rgba(255,134,0,1);
+    background-color: rgba(58,0,255,1);
 	}
 	
 	#menu .active a
