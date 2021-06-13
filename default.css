@@ -269,7 +269,8 @@
 
 	.title
 	{
-		margin-bottom: 3em;
+    margin-bottom: 3em;
+    margin-left: 0px;
 	}
 	
 	.title h2
