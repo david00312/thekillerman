@@ -1,15 +1,86 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
+<!DOCTYPE html SITE  >
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
 
-Name       : Assembly 
-Description: A two-column, fixed-width design with dark color scheme.
-Version    : 1.0
-Released   : 20140330
+<body>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
 
--->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<style>
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+  }
+
+  body {
+    height: 2000px;
+    background-color: #000;
+  }
+
+  #progressbar-path {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 10px;
+    height: 100%;
+    background: rgba(113, 110, 110, 0.4)
+  }
+
+  #progressbar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 10px;
+    height: 50%;
+    background: linear-gradient(to top, #008aff, #00ffe7)
+  }
+
+  ::-webkit-scrollbar {
+    width: 0 !important;
+  }
+
+  ::-moz-scrollbar {
+    width: 0 !important;
+  }
+
+ 
+  section {
+    padding: 10px;
+  }
+
+  section h1 {
+    color: #666;
+    font-size: 3em
+  }
+
+  section p {
+    color: #444;
+    font-size: 1.3em;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
+</style>
+
+<body>
+  <div id="progressbar-path"></div>
+<div id="progressbar"></div>
+<section>
+  <p>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -68,7 +139,7 @@ Released   : 20140330
 	      </blockquote>
       </blockquote>
 <a href="https://www.facebook.com/thekillerman.official/?ref=pages_you_manage" class="button button-alt">VREAU SA VAD CU COHI MEI&nbsp;</a>
-		</div>
+	  </div>
 		<div class="boxC"><p>FACEBOOK PERSONAL&nbsp;&nbsp;</p>
 			<a href="https://www.facebook.com/david.serban.7906/" class="button button-alt">VREAU SA ARUNC UN OCHI&nbsp; &nbsp;&nbsp;</a>
 		</div>
@@ -92,6 +163,24 @@ Released   : 20140330
 </div>
 <div id="copyright" class="container">
 	<p>&copy;  All rights reserved to THE KILLER MAN | Photos by NUI TREAPA TA MAI| Design by THE KILLER MAN&nbsp; <a href="http://templated.co" rel="nofollow">&nbsp;</a></p>
+	      
+</p>
+  </section>
+<script>
+    var progress = document.getElementById('progressbar'),
+      percentage = document.getElementById('percentage'),
+      totalHeight = document.body.scrollHeight - window.innerHeight;
+
+
+    window.onscroll = () => {
+      var pro = (window.pageYOffset / totalHeight) * 100
+      progress.style.height = pro + '%'
+      percentage.innerHTML = "Percentage " + Math.round(pro) + '%'
+    }
+  </script>
+</body>
+
+</html>
 </div>
 </body>
 </html>
