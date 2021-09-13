@@ -351,9 +351,11 @@
 
 	#menu
 	{
-		position: absolute;
-		top: 4.5em;
-		right: 0;
+    position: absolute;
+    top: 21.5px;
+    right: 0px;
+    left: 819px;
+    bottom: 0px;
 	}
 	
 	#menu ul
